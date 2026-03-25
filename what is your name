@@ -1,0 +1,6 @@
+var_1=mary
+var_2=jones
+print(strvar_1 + strvar_2)
+
+
+
